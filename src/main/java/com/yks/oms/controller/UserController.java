@@ -63,7 +63,7 @@ public class UserController {
     }
 
     /**
-     * 测试
+     * 测试方法
      * @return
      */
     @RequestMapping(value = "api/oms/user/test",method = RequestMethod.POST)
